@@ -14,3 +14,5 @@ In this individual project, I read students' scores from class_grades.csv. Then 
 - ``main.ipynb`` uses polars to do data analysis on input .csv file, including mean, median and std. I also plot the distribution of grades using matplot.
 
 - ``test_main.ipynb`` testing scripts for CI
+
+Introduction video available here: https://www.youtube.com/watch?v=yt5L9f7xXkw
