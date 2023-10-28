@@ -15,4 +15,4 @@ In this project, we use the capabilities of cloud-hosted Jupyter Notebooks, spec
 
 - ``test_main.ipynb`` testing scripts for CI
 
-Colab link here: 
+Colab link here: https://colab.research.google.com/github/Jason-Guo1999/week9-miniProj-zg105/blob/main/main.ipynb#scrollTo=EIUmi5PT5K8b
