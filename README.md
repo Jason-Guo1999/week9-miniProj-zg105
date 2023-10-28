@@ -1,6 +1,6 @@
 [![CI](https://github.com/Jason-Guo1999/IDS706-Python-Template/actions/workflows/main.yml/badge.svg)](https://github.com/Jason-Guo1999/IDS706-Python-Template/actions/workflows/main.yml)
-# IDS706-Individual-Proj1
-In this individual project, I read students' scores from class_grades.csv. Then used Polars to analysis the data and created data visualization by main.ipynb. The output shows the distribution and summary of input class_grades.csv file. The lib.py file stores code shared by main.ipynb and test_main.ipynb. The generate.py is used to generate class_grades.csv
+# IDS706-week9-miniProj-zg105
+In this project, we use the capabilities of cloud-hosted Jupyter Notebooks, specifically Google Colab, to do data manipulation tasks on a sample dataset. The power of cloud computing allows us to handle, transform, and analyze data seamlessly without any local dependencies.I read students' scores from class_grades.csv. Then used Polars to analysis the data and created data visualization by main.ipynb. The output shows the distribution and summary of input class_grades.csv file. The lib.py file stores code shared by main.ipynb and test_main.ipynb. The generate.py is used to generate class_grades.csv
 - ``.devcontainer`` The `Dockerfile` lists configurations for Docker, the `devcontainer.json` is for Visual Studio Code extension.
 
 - ``workflows`` is for github actions, enables automated CI/CD for the project
@@ -15,4 +15,4 @@ In this individual project, I read students' scores from class_grades.csv. Then 
 
 - ``test_main.ipynb`` testing scripts for CI
 
-Introduction video available here: https://www.youtube.com/watch?v=yt5L9f7xXkw
+Colab link here: 
